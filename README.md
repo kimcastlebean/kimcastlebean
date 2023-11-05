@@ -10,7 +10,7 @@
 </br>
 <p align="center">
 <a href="mailto:madmangle@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:madmangle@gmail.com"/></a>
-<a href="https://www.instagram.com/ppspdjfjjd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ppspdjfjjd"/></a>
+<a href="https://www.instagram.com/castlebean93"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/castlebean93"/></a>
 <a href="https://velog.io/@kimcastlebean"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@kimcastlebean"/></a>
 </p>
 
